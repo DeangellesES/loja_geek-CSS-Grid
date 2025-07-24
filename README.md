@@ -1,7 +1,7 @@
 <h1>Projeto: Site de Uma Loja Geek Simples</h1>
 
 <h2>📌 Sobre o Projeto</h2>
-<p>Este é um projeto Front-End dedicado a uma Loja Geek, Este site foi criado para fins de estudo e prática de CSS Grid.</p>
+<p>Este é um projeto Front-End dedicado a uma Loja Geek, Este site foi criado durante um curso para fins de estudos e prática de CSS Grid.</p>
 
 <h3>💻<a href="https://deangelleses.github.io/loja_geek-CSS-Grid/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
 
