@@ -28,5 +28,5 @@
   <li>HTML semântico e bem estruturado</li>
   <li>:root para criação de variáveis em CSS</li>
   <li>manipulação de Background</li>
-  <li>transform: translateY(-50%); object-fit: contain;</li>
+  <li>transform: translateY(-50%); object-fit: contain; box-shadow: 0px 4px 24px 0px #7B7B7B26;</li>
 </ul>
